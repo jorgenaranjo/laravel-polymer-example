@@ -1,4 +1,4 @@
-i/vendor
+/vendor
 /node_modules
 .idea
 .env
