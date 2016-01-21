@@ -27,6 +27,7 @@
         position: absolute;
         bottom: 10px;
         right: 10px;
+        background-color: var(--paper-green-600);
     }
 
 </style>
